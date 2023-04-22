@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(#FFFAF0, #4682B4);
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.Receita-de-Pão {
+    width: 25%;
+}
